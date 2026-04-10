@@ -41,7 +41,7 @@ Error:Success
 ## Group Projects
 - **(group) Final project:** https://github.com/box717/final-project
 - **VO:** https://github.com/box717
-- **Opensplating:** https://github.com/LancerPu
+- **Opensplating:** https://github.com/box717/OpenSplat.git
 - **U-net:** https://github.com/billyTryToCode
 
 Up to 3 members~
